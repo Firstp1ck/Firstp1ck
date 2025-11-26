@@ -13,3 +13,10 @@ Linux systems, Rust programming, open-source development, package management, or
 
 - 📫 How to reach me: firstpick1992@proton.me
 
+### My Journey so far:
+| Skill/Topic | Date Started |
+|-------------|--------------|
+| Programming | Jan 2024     |
+| Linux (Arch/EndeavourOS) | Nov 2024 |
+| Hyprland    | Mar 2025     |
+| Rust        | Aug 2025     |
