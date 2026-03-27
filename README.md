@@ -20,3 +20,4 @@ Linux systems, Rust programming, open-source development, package management, or
 | Linux (Arch/EndeavourOS) | Nov 2024 |
 | Hyprland    | Mar 2025     |
 | Rust        | Aug 2025     |
+| WebDev      | Dez 2025     |
