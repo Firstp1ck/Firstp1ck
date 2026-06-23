@@ -21,3 +21,4 @@ Linux systems, Rust programming, open-source development, package management, or
 | Hyprland    | Mar 2025     |
 | Rust        | Aug 2025     |
 | WebDev      | Dez 2025     |
+| Agents      | May 2026     |
